@@ -25,6 +25,6 @@ The 3D rendering of one of the generated volume using Inviwo renderer [1]
 ![render](https://github.com/graphics-research-group/2D-To-3D-Medical-Image-Colorization/blob/master/imgs/render.png)
 
 ## TODOs
-[ ] Provide the code for SRGAN module and weights for the trained model.
-[ ] Provide some test volumes for results generation.
+[] Provide the code for SRGAN module and weights for the trained model.
+[] Provide some test volumes for results generation.
 
