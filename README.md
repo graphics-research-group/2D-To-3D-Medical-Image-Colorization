@@ -12,17 +12,17 @@ The following is the our proposed novel pipeline for synthesis of high resolutio
 ## GAN Synthesis Results
 The following are the results of the trained generator on 16-bit Visible Human 2 MRI volume
 
-![gan](https://github.com/graphics-research-group/2D-To-3D-Medical-Image-Colorization/blob/master/imgs/gan.png)
+![gan](./imgs/gan.png)
 
 ## Results of the Complete Pipeline
 The following are the results of the complete pipeline for different style images:
 
-![results](https://github.com/graphics-research-group/2D-To-3D-Medical-Image-Colorization/blob/master/imgs/generated.png)
+![results](./imgs/generated.png)
 
 ## 3D Rendering
 The 3D rendering of one of the generated volume using Inviwo renderer [1]
 
-![render](https://github.com/graphics-research-group/2D-To-3D-Medical-Image-Colorization/blob/master/imgs/render.png)
+![render](./imgs/render.png)
 
 ## TODOs
 - [ ] Provide the code for SRGAN module and weights for the trained model.
