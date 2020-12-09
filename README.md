@@ -7,7 +7,7 @@ The weights for the generator can be downloaded from here: [Generator Weights]()
 ## Complete Pipeline
 The following is the our proposed novel pipeline for synthesis of high resolution colorized volume for an inpput MRI volume:
 
-![pipeline](https://github.com/graphics-research-group/2D-To-3D-Medical-Image-Colorization/blob/master/imgs/pipeline.png)
+![pipeline](./imgs/pipeline.png)
 
 ## GAN Synthesis Results
 The following are the results of the trained generator on 16-bit Visible Human 2 MRI volume
