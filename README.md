@@ -27,6 +27,7 @@ The 3D rendering of one of the generated volume using Inviwo renderer.
 ![render](./imgs/render.png)
 
 ## TODOs
+- [ ] Share code for poisson reconstruction
 - [ ] Provide the code for SRGAN module and weights for the trained model.
 - [ ] Provide some test volumes for results generation.
 - [ ] Share all the generated volmes and their masks via the drive link.
